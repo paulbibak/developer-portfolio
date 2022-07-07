@@ -11,7 +11,7 @@ span {
     color: orange;
 }
 
-section {
+.flixiable-container {
     display: flex;
     margin-bottom: 50px;
 }
