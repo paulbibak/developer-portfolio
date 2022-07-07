@@ -44,3 +44,36 @@ span {
     background-repeat: no-repeat;
     background-position: right;
 }
+
+.experience-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+
+.experience-item {
+    width: 50%;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    padding: 3%;
+    border-radius: 5px;
+    box-shadow: 10px 10px 60px gray;
+    border-left: 8px solid blue;
+}
+
+#full-stack-developer {
+    border-left: 8px solid tomato;
+
+}
+
+#add-footer {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+.increasing-font {
+    font-size: 25px;
+}
